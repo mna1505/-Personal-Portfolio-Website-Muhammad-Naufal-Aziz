@@ -7,27 +7,25 @@ Demo YouTube: https://www.youtube.com/watch?v=eqOtYEefZ_g
 
 🏗️ Struktur Halaman
 
-![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/home.png?raw=true)
-🏠 Home Page
+🏠 Home Page & 👤 About Page
+![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/home.png)
 Menampilkan sapaan pembuka, foto profil, serta deskripsi singkat tentang diri saya sebagai mahasiswa Informatika yang tertarik pada teknologi dan desain.
 Halaman ini juga menampilkan animasi teks ketik (typing effect) yang memberikan kesan dinamis dan profesional.
-
-👤 About Page
 Menjelaskan latar belakang saya sebagai mahasiswa Teknik Informatika, minat terhadap UI/UX design, web development, dan digital graphics.
 Teks muncul dengan efek fade-down dan fade-right (AOS Animation) yang menambah kesan interaktif dan halus saat di-scroll.
 
-![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/experience.png)
 💼 Experience Page
+![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/experience.png)
 Berisi pengalaman dan aktivitas yang pernah dilakukan, ditampilkan secara rapi dengan animasi scroll reveal untuk setiap elemen.
 Halaman ini menekankan kemampuan adaptasi dan semangat eksplorasi dalam bidang teknologi dan desain.
 
-![[alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/project.png)](?raw=true)
 🧠 Project & Skills Page
+![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/project.png)
 Menampilkan proyek-proyek yang pernah dikerjakan beserta daftar keahlian.
 Didesain agar portofolio terlihat bersih, modern, dan mudah diakses, dengan efek transisi serta hover yang responsif.
 
-![[alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/contact.png)](?raw=true)
 ✉️ Contact Page
+![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/contact.png)
 Memuat formulir untuk mengirim pesan langsung kepada saya.
 Bagian kiri menampilkan gambar anime (hiu 🦈) dengan animasi bergerak kanan–kiri lembut yang memberikan sentuhan personal dan kreatif.
 Formulir dibuat valid dan interaktif, dengan efek hover dan transisi halus.
