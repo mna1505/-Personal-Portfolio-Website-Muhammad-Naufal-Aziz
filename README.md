@@ -7,7 +7,7 @@ Demo YouTube: https://www.youtube.com/watch?v=eqOtYEefZ_g
 
 🏗️ Struktur Halaman
 
-![[alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/home.png)](?raw=true)
+![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/home.png?raw=true)
 🏠 Home Page
 Menampilkan sapaan pembuka, foto profil, serta deskripsi singkat tentang diri saya sebagai mahasiswa Informatika yang tertarik pada teknologi dan desain.
 Halaman ini juga menampilkan animasi teks ketik (typing effect) yang memberikan kesan dinamis dan profesional.
@@ -16,7 +16,7 @@ Halaman ini juga menampilkan animasi teks ketik (typing effect) yang memberikan 
 Menjelaskan latar belakang saya sebagai mahasiswa Teknik Informatika, minat terhadap UI/UX design, web development, dan digital graphics.
 Teks muncul dengan efek fade-down dan fade-right (AOS Animation) yang menambah kesan interaktif dan halus saat di-scroll.
 
-![[alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/experience.png)](?raw=true)
+![alt text](https://github.com/mna1505/-Personal-Portfolio-Website-Muhammad-Naufal-Aziz/blob/main/tampilan%20website/experience.png)
 💼 Experience Page
 Berisi pengalaman dan aktivitas yang pernah dilakukan, ditampilkan secara rapi dengan animasi scroll reveal untuk setiap elemen.
 Halaman ini menekankan kemampuan adaptasi dan semangat eksplorasi dalam bidang teknologi dan desain.
