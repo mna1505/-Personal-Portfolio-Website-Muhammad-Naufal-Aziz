@@ -5,6 +5,8 @@ Didesain dengan perpaduan teknologi dan estetika visual, website ini menjadi rep
 
 Demo YouTube: https://www.youtube.com/watch?v=eqOtYEefZ_g
 
+```
+
 🏗️ Struktur Halaman
 
 🏠 Home Page & 👤 About Page
@@ -30,6 +32,7 @@ Memuat formulir untuk mengirim pesan langsung kepada saya.
 Bagian kiri menampilkan gambar anime (hiu 🦈) dengan animasi bergerak kanan–kiri lembut yang memberikan sentuhan personal dan kreatif.
 Formulir dibuat valid dan interaktif, dengan efek hover dan transisi halus.
 
+```
 
 ⚙️ Teknologi yang Digunakan
 | Teknologi                   | Fungsi                                                             |
