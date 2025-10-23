@@ -40,7 +40,7 @@ Formulir dibuat valid dan interaktif, dengan efek hover dan transisi halus.
 | **CSS Custom Animation**    | Efek interaktif tambahan (seperti gerakan hiu)                     |
 | **JavaScript (External)**   | Mengatur tema dark/light mode, animasi teks, dan interaksi halaman |
 
-
+```
 🌟 Fitur Utama
 |
 🌙 Dark/Light Mode Toggle — perubahan tema dengan ikon dinamis.
@@ -54,8 +54,9 @@ Formulir dibuat valid dan interaktif, dengan efek hover dan transisi halus.
 📱 Responsive Design — tampilan optimal untuk berbagai ukuran layar.
 |
 🎨 Modern UI/UX — kombinasi desain minimalis, tipografi jelas, dan palet warna kontras.
+```
 
-
+```
 📁 Website-Portfolio-MNAZ
 │
 ├── 📄 index.html
@@ -76,3 +77,4 @@ Formulir dibuat valid dan interaktif, dengan efek hover dan transisi halus.
 ├── 📄 style.css
 ├── 📄 script.js
 └── 📄 README.md
+```
