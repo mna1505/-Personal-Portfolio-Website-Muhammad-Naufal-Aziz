@@ -30,8 +30,6 @@ Memuat formulir untuk mengirim pesan langsung kepada saya.
 Bagian kiri menampilkan gambar anime (hiu 🦈) dengan animasi bergerak kanan–kiri lembut yang memberikan sentuhan personal dan kreatif.
 Formulir dibuat valid dan interaktif, dengan efek hover dan transisi halus.
 
-```
-
 ⚙️ Teknologi yang Digunakan
 | Teknologi                   | Fungsi                                                             |
 | --------------------------- | ------------------------------------------------------------------ |
